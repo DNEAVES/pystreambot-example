@@ -1,0 +1,4 @@
+insert.your.public.ddns.here:443
+# I have mine through noip.com
+
+reverse_proxy localhost:4000
